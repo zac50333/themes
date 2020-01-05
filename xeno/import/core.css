@@ -499,7 +499,7 @@ svg[name="Nova_Discord"] {display: none!important;}
 /* == Chat == */
 .dividerContent-2L12VI:after,
 .dividerContent-2L12VI:before {
-  background-color: rgba(255,255,255,0);
+  background-color: rgba(255,255,255,.45);
 }
 .dividerContent-2L12VI {
   color: #fff;
